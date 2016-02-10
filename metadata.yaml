@@ -1,0 +1,27 @@
+_repo: Santa-Cecilia_46613
+covers:
+- cover_type: archival
+  image_path: 46613/46613-h/images/cover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Barrili, Anton Giulio
+    alias: Barrili, Antonio Giulio
+    birthdate: 1836
+    deathdate: 1908
+    gutenberg_agent_id: '4056'
+    url: http://www.gutenberg.org/2009/agents/4056
+    wikipedia: http://en.wikipedia.org/wiki/Antonio_Giulio_Barrili
+description: ''
+gutenberg_bookshelf: IT Romanzi
+gutenberg_issued: '2014-08-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46613'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Santa Cecilia
+url: http://www.gutenberg.org/ebooks/46613
